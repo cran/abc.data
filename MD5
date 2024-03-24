@@ -1,9 +1,9 @@
-38bc68270fa87eacc186a1f5d8aac4ed *DESCRIPTION
+a961aa77e55fa64cc0f6c57dd4d80e27 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 7ae7d393379429697b0ae82006af5405 *data/datalist
-e2e915566e3e3ee2b6e463d6e9d57fa4 *data/human.rda
-10f27708f6cfce240b6d1c0cce7a892b *data/musigma2.rda
-9971e5c23b8d899535cd8c9f345760a9 *data/ppc.rda
+cd4f69b7277130b7aa5fc1a5167e3092 *data/human.rda
+ca66ccea907c60c490b655c5e2b879f9 *data/musigma2.rda
+8da6aa031dadee1c616990e407043423 *data/ppc.rda
 a27bd1198e726024584fb3025a940a54 *man/human.Rd
 bca892db71751db1234a1844360ce6b2 *man/musigma2.Rd
 3a4bf506aa485002a849fcdf110880d8 *man/ppc.Rd
